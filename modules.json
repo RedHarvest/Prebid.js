@@ -1,0 +1,10 @@
+[
+    "adformBidAdapter",
+    "admixerBidAdapter",
+    "appnexusBidAdapter",
+    "ixBidAdapter",
+    "mantisBidAdapter",
+    "pubmaticBidAdapter",
+    "googleAnalyticsAdapter",
+    "dfpAdServerVideo"
+]
